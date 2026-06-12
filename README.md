@@ -1,2 +1,3 @@
-# catalinamarambiop.github.io
+# Tarea 03
+Comencé con mi archivo en visual studio code, al empezar a reescribir las etiquetas vistas en clases, me sugirió y añadió automáticamente una estructura básica, incluyendo etiquetas de título, cuerpo, un encabezado y un párrafo. Sobre estas intenté seguir la estructura que definí en el wireframe de la entrega pasada. 
 
